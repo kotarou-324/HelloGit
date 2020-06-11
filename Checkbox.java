@@ -44,5 +44,6 @@ public class Checkbox extends HttpServlet {
 			out.println("お買い得情報はお送りしません。");
 		}
 		Page.footer(out);
+		//コメントテスト
 	}
 }
